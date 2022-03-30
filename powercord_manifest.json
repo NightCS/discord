@@ -1,0 +1,9 @@
+{
+  "name": "Night",
+  "description": "A clean and dark colorscheme for discord based in the colors showed in the rxyhn dotfiles showcase",
+  "version": "0.0.1",
+  "author": "AlphaTechnolog",
+  "theme": "/Night.theme.css",
+  "license": "MIT",
+  "consent": "true"
+}
