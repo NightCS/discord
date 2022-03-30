@@ -2,6 +2,8 @@
 
 This is the integration of night for discord
 
+![demonstration](./misc/demonstration.png)
+
 ## Usage
 
 ### [BetterDiscord](https://betterdiscord.app)
